@@ -11,6 +11,8 @@ DOMAIN-SUFFIX,pawalody.us.kg
 DOMAIN-SUFFIX,galy.us.kg
 DOMAIN-SUFFIX,addbob.us.kg
 DOMAIN-SUFFIX,addbob.top
+DOMAIN-SUFFIX,gw.app.zacam.cn
+DOMAIN-SUFFIX,mojing.sctel.com.cn
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
@@ -18,6 +20,8 @@ DOMAIN-KEYWORD,pawalody
 DOMAIN-KEYWORD,galy
 DOMAIN-KEYWORD,addbob
 DOMAIN-KEYWORD,cloudflare
+DOMAIN-KEYWORD,zacam
+DOMAIN-KEYWORD,mojing
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
