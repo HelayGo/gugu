@@ -4,9 +4,11 @@ DOMAIN-KEYWORD,laowang
 DOMAIN-KEYWORD,east-plus
 DOMAIN-KEYWORD,greasyfork
 DOMAIN-KEYWORD,openuserjs
+DOMAIN-KEYWORD,spankbang
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,laowang.vip
 DOMAIN-SUFFIX,www.east-plus.net
 DOMAIN-SUFFIX,greasyfork.org
 DOMAIN-SUFFIX,openuserjs.org
+DOMAIN-SUFFIX,spankbang.com
