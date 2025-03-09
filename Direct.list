@@ -13,6 +13,7 @@ DOMAIN-SUFFIX,addbob.us.kg
 DOMAIN-SUFFIX,addbob.top
 DOMAIN-SUFFIX,zacam.cn
 DOMAIN-SUFFIX,mojing.sctel.com.cn
+DOMAIN-SUFFIX,api.nn.ci
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
@@ -22,6 +23,8 @@ DOMAIN-KEYWORD,addbob
 DOMAIN-KEYWORD,cloudflare
 DOMAIN-KEYWORD,zacam
 DOMAIN-KEYWORD,mojing
+DOMAIN-KEYWORD,nn
+DOMAIN-KEYWORD,ci
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
