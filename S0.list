@@ -12,3 +12,6 @@ DOMAIN-SUFFIX,www.east-plus.net
 DOMAIN-SUFFIX,greasyfork.org
 DOMAIN-SUFFIX,openuserjs.org
 DOMAIN-SUFFIX,spankbang.com
+
+# IP匹配
+IP-CIDR,198.18.1.53/32,no-resolve
