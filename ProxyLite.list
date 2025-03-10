@@ -5,6 +5,19 @@ DOMAIN-KEYWORD,1e100
 DOMAIN-KEYWORD,serv00
 DOMAIN-KEYWORD,us
 DOMAIN-KEYWORD,kg
+DOMAIN-KEYWORD,laowang
+DOMAIN-KEYWORD,east-plus
+DOMAIN-KEYWORD,greasyfork
+DOMAIN-KEYWORD,openuserjs
+
+
+# 域名后缀匹配
+DOMAIN-SUFFIX,laowang.vip
+DOMAIN-SUFFIX,www.east-plus.net
+DOMAIN-SUFFIX,greasyfork.org
+DOMAIN-SUFFIX,openuserjs.org
+DOMAIN-SUFFIX,serv00.com
+DOMAIN-SUFFIX,us.kg
 
 # IP段匹配
 IP-CIDR,128.204.223.42/32,no-resolve
@@ -12,8 +25,6 @@ IP-CIDR,128.204.223.43/32,no-resolve
 IP-CIDR,91.195.240.123/32,no-resolve
 
 # 国外DNS
-DOMAIN-SUFFIX,serv00.com
-DOMAIN-SUFFIX,us.kg
 DOMAIN-SUFFIX,dns.google
 DOMAIN-SUFFIX,1dot1dot1dot1.cloudflare-dns.com
 DOMAIN-SUFFIX,dot.sb
