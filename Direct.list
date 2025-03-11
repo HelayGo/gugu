@@ -13,6 +13,9 @@ DOMAIN-SUFFIX,zacam.cn
 DOMAIN-SUFFIX,mojing.sctel.com.cn
 DOMAIN-SUFFIX,api.nn.ci
 DOMAIN-SUFFIX,115.com
+DOMAIN-SUFFIX,cloudflare-cn.com
+DOMAIN-SUFFIX,cloudflare.com
+
 
 
 # 域名关键字匹配
