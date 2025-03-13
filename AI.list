@@ -7,7 +7,6 @@ DOMAIN-KEYWORD,pixverse
 DOMAIN-KEYWORD,suno
 DOMAIN-KEYWORD,aistudio
 # 域名后缀匹配
-DOMAIN-SUFFIX,aistudio.google.com
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,auth0.com
