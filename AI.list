@@ -5,7 +5,6 @@ DOMAIN-KEYWORD,anthropic
 DOMAIN-KEYWORD,Claude
 DOMAIN-KEYWORD,pixverse
 DOMAIN-KEYWORD,suno
-DOMAIN-KEYWORD,aistudio
 # 域名后缀匹配
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,chatgpt.com
