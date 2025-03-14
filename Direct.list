@@ -15,10 +15,11 @@ DOMAIN-SUFFIX,api.nn.ci
 DOMAIN-SUFFIX,115.com
 DOMAIN-SUFFIX,cloudflare-cn.com
 DOMAIN-SUFFIX,cloudflare.com
-
+DOMAIN-SUFFIX,uniqlo.cn
 
 
 # 域名关键字匹配
+DOMAIN-KEYWORD,uniqlo
 DOMAIN-KEYWORD,pawalody
 DOMAIN-KEYWORD,galy
 DOMAIN-KEYWORD,addbob
