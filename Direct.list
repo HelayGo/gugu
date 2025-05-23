@@ -13,6 +13,7 @@ DOMAIN-SUFFIX,115.com
 DOMAIN-SUFFIX,cloudflare-cn.com
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,uniqlo.cn
+# mojing
 DOMAIN-SUFFIX,mjrecord.sctel.com.cn
 DOMAIN-SUFFIX,itvapp.sctel.com.cn
 DOMAIN-SUFFIX,isepg.sctel.com.cn
@@ -20,6 +21,7 @@ DOMAIN-SUFFIX,ismj.tyfo.com
 
 
 # 域名关键字匹配
+# mojing
 DOMAIN-KEYWORD,ismj
 DOMAIN-KEYWORD,tyfo
 DOMAIN-KEYWORD,sctel
