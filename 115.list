@@ -1,0 +1,20 @@
+
+# 域名后缀匹配
+DOMAIN-SUFFIX,115.com
+DOMAIN-SUFFIX,proapi.115.com
+DOMAIN-SUFFIX,aps.115.com
+DOMAIN-SUFFIX,cdnfhnfile.115cdn.net
+DOMAIN-SUFFIX,union.115.com
+DOMAIN-SUFFIX,home.115.com
+DOMAIN-SUFFIX,passportapi.115.com
+DOMAIN-SUFFIX,appversion.115.com
+DOMAIN-SUFFIX,home.115.com
+DOMAIN-SUFFIX,proapi.115.com
+DOMAIN-SUFFIX,cdnfhnfile.115cdn.net
+DOMAIN-SUFFIX,webapi.115.com
+DOMAIN-SUFFIX,passportapi.115.com
+DOMAIN-SUFFIX,ws.115.com
+
+# 域名关键字匹配
+DOMAIN-KEYWORD,115
+
